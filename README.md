@@ -3,7 +3,9 @@ Challenge 2 Repository - Create webpage
 
 ## About This Project
 
-This project our goal was to create a webpage that would serve as our portfolio of work during bootcamp. The key driver was to develop a page that represented who we are as a developer, the work we have completed and demoonstarte that the page is also responisive. 
+This project our goal was to create a webpage that would serve as our portfolio of work during bootcamp. The key driver was to develop a page that represented who we are as a developer, the work we have completed and demonstrate that the page is also responsive. 
+
+[Webpage Challenge 2](https://mlipscomb24.github.io/Challenge-2/#About-Me) 
 
 ## Acklnowledgements
 
